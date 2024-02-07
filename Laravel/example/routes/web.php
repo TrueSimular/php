@@ -25,10 +25,6 @@ Route::get('/help', function () {
     return view('groups/help');
 });
 
-Route::get('/alternate', function () {
-    return view('groups/alternate');
-});
-
 Route::get('/products', function () {
     return view('groups/products');
 });

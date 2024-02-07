@@ -17,7 +17,6 @@
 
       <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
         <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="help">Психологическая помощь</a>
-        <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="alternate">Альтернативный путь</a>
         <a class="me-3 py-2 link-body-emphasis text-decoration-none" href="products">Продукты 1С</a>
       </nav>
     </div>
